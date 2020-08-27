@@ -10,6 +10,7 @@ This is a test page for experimenting with GitHub Pages.
 
 * [Supported Themes](https://pages.github.com/themes/)
 * [Customizing Themes](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-jekyll-themes-html-layout)
+* [Escaping/Unescaping HTML](https://www.freeformatter.com/html-escape.html#ad-output)
 
 ## Initial Setup
 
