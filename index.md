@@ -8,8 +8,8 @@ This is a test page for experimenting with GitHub Pages.
 
 ## Useful Links
 
-[Supported Themes](https://pages.github.com/themes/)
-[Customizing Themes](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-jekyll-themes-html-layout)
+* [Supported Themes](https://pages.github.com/themes/)
+* [Customizing Themes](https://docs.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-jekyll-themes-html-layout)
 
 ## Initial Setup
 
