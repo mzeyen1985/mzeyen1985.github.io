@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: GitHub Pages Testsite
 description: August 2020
+baseurl: /
